@@ -12,4 +12,5 @@
                 } else if (asset.Name.contains('CTMA Certification')) {  
                     mapContactWithCTMAAssets.get(asset.Assignee__c).add(asset);
                 }
+  
             }
